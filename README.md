@@ -7,7 +7,7 @@
 ## Technologies Used
 
 - **C#**
-- **.NET 8**
+- **.NET 10**
 - **WinForms**
 - **HttpClient**
 
@@ -27,7 +27,7 @@
 
    ![Postman Clone Fill API URL](Images/Screenshot-v02-03.png "Fill API URL")
 
-5. **Format Response**: 
+5. **Format Response**:
    - **Checked**: The response will be formatted as follows:
 
      ![Postman Clone Formatted Response](Images/Screenshot-v02-04.png "Response with 'Format Response' checked")
